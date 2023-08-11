@@ -1,0 +1,101 @@
+[ {
+  "baseItem" : {
+    "id" : "_1imwMDUxEe6ZxfMGAfXRfw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_LQccsDaSEe6jlPma7KKp7w",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_O4N3IDU-Ee6ZxfMGAfXRfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_LQccsDaSEe6jlPma7KKp7w - brief",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_O4N3IDU-Ee6ZxfMGAfXRfw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_9mkyMDUnEe6ZxfMGAfXRfw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_EP878DUSEe6ZxfMGAfXRfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_72WAIDUmEe6ZxfMGAfXRfw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_EP878DUSEe6ZxfMGAfXRfw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_JwRGkDaWEe6jlPma7KKp7w",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_LQccsDaSEe6jlPma7KKp7w",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_O4N3IDU-Ee6ZxfMGAfXRfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_LQccsDaSEe6jlPma7KKp7w - brief",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_O4N3IDU-Ee6ZxfMGAfXRfw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_QKNNUGZ8EeWm5YvsrIoYzQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DemoRoutines",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "GetRandomPhoneNum",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "MDM",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "SQLike",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+} ]
